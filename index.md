@@ -4,8 +4,7 @@
 * Contact info:   
 Brad McNeney   
 Associate Professor
-<a href="http://www.stat.sfu.ca"> 
-Statistics and Actuarial Science </a>
+[Statistics & Actuarial Science](https://sfu.ca/stat-actsci)   
 8888 University Dr.   
 Burnaby, B.C. V5A 1S6   
 Canada   
