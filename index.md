@@ -15,6 +15,6 @@ E-mail:  mcneney at sfu dot ca
 ### Research:
 I am part of the [Graha&McNeney Lab](http://SFUStatgen.github.io)
 
-***
+---
 
 I respectfully acknowledge the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
