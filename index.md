@@ -13,7 +13,7 @@ Office: K10565
 E-mail:  mcneney at sfu dot ca   
 
 ### Research:
-I am part of the [Graha&McNeney Lab](http://SFUStatgen.github.io)
+I am part of the [Graham & McNeney Lab](http://SFUStatgen.github.io)
 
 ---
 
