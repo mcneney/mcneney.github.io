@@ -27,3 +27,4 @@ Statistics and Actuarial Science </a>.
 <p>
 <a href="altindex.html">Frequently used webpages</a>
 </p>
+I respectfully acknowledge the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
