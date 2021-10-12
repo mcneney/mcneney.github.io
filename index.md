@@ -11,4 +11,6 @@ E-mail:  mcneney at sfu dot ca
 
 ---
 
-I am grateful to live, work and play on the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
+<p style="font-size:90%;font-style:italic">
+<i>I am grateful to live, work and play on the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
+  </p>
